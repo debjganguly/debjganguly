@@ -10,5 +10,4 @@
 - Tools & Platforms: VS Code
 
 ## 📫 Let's Connect
--
-[LinkedIn](https://www.linkedin.com/in/debjganguly)
+-[LinkedIn](https://www.linkedin.com/in/debjganguly)
