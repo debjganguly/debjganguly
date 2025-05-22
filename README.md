@@ -41,5 +41,7 @@
 ### LeetCode Streak
 [![LeetCode Streak](https://leetcard.jacoblin.cool/debjganguly?theme=dark&ext=heatmap)](https://leetcode.com/debjganguly)
 
+---
+
 ### 📈 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjganguly&layout=compact&theme=tokyonight)
