@@ -1,5 +1,5 @@
 # Hi there, I'm Debjyoti Ganguly 👋
-
+<h1>Hi there, I'm Debjyoti Ganguly 👋</h1>
 ## 👨‍💻 About Me
 - ✨ I am a first year CSE Student at KIIT.
 - 🎯 AIM – Aiming to pave my path into competitive programming and development.
