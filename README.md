@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -22,18 +22,48 @@
 ---
 
 ### 🚀 Profiles  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black)](https://leetcode.com/debjganguly)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=plastic&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/debjganguly)
+<div align="center">
+
+<a href="https://leetcode.com/debjganguly">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" />
+</a>  
+<br/>
+<a href="https://www.geeksforgeeks.org/user/debjganguly">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=plastic&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ### 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjganguly)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/debjganguly)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:debjganguly@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/debjganguly)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white)](https://facebook.com/debjganguly)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/debjganguly)
+<div align="center">
+
+<a href="https://github.com/debjganguly">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+</a>  
+<br/>
+<a href="https://linkedin.com/in/debjganguly">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+<a href="mailto:debjganguly@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" />
+</a>
+<br/>
+<a href="https://instagram.com/debjganguly">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" />
+</a>  
+<br/>
+<a href="https://facebook.com/debjganguly">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" />
+</a>
+<br/>
+<a href="https://twitter.com/debjganguly">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
