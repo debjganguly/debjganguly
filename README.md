@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 ✨ I am a first year CSE Student at KIIT.  
-🎯 **AIM – ** Aiming to pave my path into competitive programming and development.  
+🎯 **AIM –** Aiming to pave my path into competitive programming and development.  
 📫 Reach me at: [debjganguly@gmail.com](mailto:debjganguly@gmail.com)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=debjganguly&style=flat-square&color=blue)
