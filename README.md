@@ -1,9 +1,5 @@
 # Hi there, I'm Debjyoti Ganguly 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79F1F&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Debjyoti+Ganguly!;CSE+Student+at+KIIT.;Love+Dev+%26+DSA;Always+Learning+New+Things+💻" alt="Typing SVG" />
-</p>
-
 ### 👨‍💻 About Me
 ✨ I am a first year CSE Student at KIIT.\
 🎯 **AIM –** Aiming to pave my path into competitive programming and development.\
@@ -79,23 +75,3 @@
 
 ### 🌍 Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-### 🚗 Random Meme Vibe
-<p align="center">
-  <img src="https://i.imgur.com/kFJ0DHz.gif" width="300px" alt="meme" />
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/31fp5k5bspxtcjkzjv3m4f4zo4hm">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fp5k5bspxtcjkzjv3m4f4zo4hm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-<img src="https://raw.githubusercontent.com/debjganguly/debjganguly/output/github-contribution-grid-snake.svg" alt="snake gif" />
