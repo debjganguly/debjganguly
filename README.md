@@ -1,7 +1,7 @@
 # Hi there, I'm Debjyoti Ganguly 👋
 
 ### 👨‍💻 About Me
-✨ I am a first year CSE Student at KIIT.\
+✨ I am a second year CSE Student at KIIT.\
 🎯 **AIM –** Aiming to pave my path into competitive programming and development.\
 📩 Reach me at : [debjganguly@gmail.com](mailto:debjganguly@gmail.com)
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 Profiles
+### 🚀 Coding Profiles
 <div align="center">
   <a href="https://leetcode.com/debjganguly">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -58,6 +58,13 @@
 
 ---
 
+### ✨ Now Learning
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Now+Learning%3A+Web+Development;Next+Up%3A+Data+Structures+and+Algorithms;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Now Learning Animation" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 ![Debjyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=debjganguly&show_icons=true&theme=tokyonight)
 
@@ -70,6 +77,13 @@
 
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debjganguly&layout=compact&langs_count=6&theme=tokyonight)
+
+---
+
+### 🧠 LeetCode Streak
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/debjganguly?theme=dark&font=Baloo+Bhai&ext=heatmap" />
+</p>
 
 ---
 
