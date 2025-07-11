@@ -87,5 +87,13 @@
 
 ---
 
+### 🏆 Codeforces Streak
+<p align="center">
+  <img src="https://cf-streaks.vercel.app/?user=debjganguly" />
+</p>
+
+
+---
+
 ### 🌍 Quote of the Day
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
