@@ -1,5 +1,7 @@
 # Hi there, I'm Debjyoti Ganguly 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=debjganguly&label=Profile%20Views&color=blue&style=flat)
+
 ---
 
 ## 👨‍💻 About Me
@@ -78,10 +80,10 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjganguly&theme=tokyonight" height="160px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=debjganguly&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -94,6 +96,19 @@
 
 ---
 
+## 🔝 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/debjganguly/your-top-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debjganguly&repo=your-top-repo&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/debjganguly/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debjganguly&repo=another-repo&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 🧠 LeetCode Streak
 
 <p align="center">  
@@ -102,10 +117,10 @@
 
 ---
 
-## 🏆 Codeforces Streak
+## 🐍 Snake Contribution Graph
 
-<p align="center">  
-  <img src="https://cf-streaks.vercel.app/?user=debjganguly" />  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/debjganguly/debjganguly/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
