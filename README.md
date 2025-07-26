@@ -96,31 +96,10 @@
 
 ---
 
-## 🔝 Top Repositories
-
-<p align="center">
-  <a href="https://github.com/debjganguly/your-top-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debjganguly&repo=your-top-repo&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/debjganguly/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=debjganguly&repo=another-repo&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ## 🧠 LeetCode Streak
 
 <p align="center">  
   <img src="https://leetcard.jacoblin.cool/debjganguly?theme=dark&font=Baloo+Bhai&ext=heatmap" />  
-</p>
-
----
-
-## 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/debjganguly/debjganguly/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
