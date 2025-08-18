@@ -12,10 +12,6 @@ https://github.com/debjganguly/GITHUB-PORTFOLIO
 🎯 **AIM –** Paving my way into competitive programming & development  
 📬 Reach me at: **debjganguly@gmail.com**
 
-<a href="https://github.com/debjganguly/GITHUB-PORTFOLIO">
-  <img src="./assets/blinking.gif" alt="My GitHub Summarised" />
-</a>
-
 ---
 
 ## 🛠️ Tech Stack
